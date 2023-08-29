@@ -101,3 +101,5 @@ const fatosHistoricos = [
     {"Ano": "2019", "Fato": "Protestos ocorrem em Hong Kong contra tentativa da China de tirar a autonomia do país."},
     {"Ano": "2020", "Fato": "Tem início a pandemia de COVID-19"}
 ]
+
+export default fatosHistoricos;
